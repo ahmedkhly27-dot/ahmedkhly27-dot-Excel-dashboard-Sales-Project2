@@ -1,4 +1,4 @@
-# ahmedkhly27-dot-Excel-dashboard-Sales-Project2
+Excel-dashboard-Sales-Project2
 This Sales & Profit Dashboard offers a comprehensive analysis of business performance across four years (2021–2024). It includes the following key insights:
 
 Total Sales: $1,928,888
