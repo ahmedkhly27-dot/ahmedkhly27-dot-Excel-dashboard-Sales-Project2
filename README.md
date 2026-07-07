@@ -1,35 +1,137 @@
-Excel-dashboard-Sales-Project2
-This Sales & Profit Dashboard offers a comprehensive analysis of business performance across four years (2021–2024). It includes the following key insights:
+# 📊 Sales & Profit Dashboard
 
-Total Sales: $1,928,888
+An interactive Power BI dashboard built to analyze sales performance, profitability, customer growth, and product category trends. The dashboard helps business stakeholders monitor KPIs, identify top-performing categories, and make data-driven decisions.
 
-Total Profit: $247,962
+---
 
-Sales by Category:
+## 📸 Dashboard Preview
 
-Technology: $704,452
+![Dashboard](Screenshot%202026-07-07%20172113.png)
 
-Furniture: $622,342
+---
 
-Office Supplies: $602,094
+## 🎯 Project Objective
 
-Profit by Year & Category:
-Displays profit distribution across categories per year.
-For example, in 2023, Office Supplies yielded the highest profit of $35,053, followed by Technology with $39,774.
+The objective of this project is to transform raw sales data into meaningful business insights through interactive visualizations.
 
-Customer Count by Year:
-Shows the number of customers each year, with 2023 having the highest count (638).
+This dashboard enables users to:
 
-Top 5 Customers by Profit:
-Highlights the most profitable customers such as:
+- Monitor overall business performance.
+- Analyze sales and profit trends.
+- Compare product categories.
+- Track yearly customer growth.
+- Identify top profitable customers.
+- Filter results dynamically by Category, Year, and Month.
 
-Tamara Chand: $8,981.32
+---
 
-Raymond Buch: $6,939.17
+## 📌 Business Questions Answered
 
-Sanjit Chand: $5,757.42
+- What are the total Sales and Total Profit?
+- Which product category generates the highest sales?
+- How has profit changed over the years?
+- Which customers generate the highest profit?
+- How many customers were served each year?
+- How do Category, Year, and Month affect business performance?
 
-Slicers for Interactivity:
-Users can filter data by Category, Year, and Month to gain focused insights.
+---
 
-This dashboard supports data-driven decisions by clearly illustrating trends and top contributors to profitability.
+## 📈 Key Performance Indicators (KPIs)
+
+| KPI | Value |
+|------|-------:|
+| Total Sales | $1,928,888 |
+| Total Profit | $247,962 |
+| Categories | 3 |
+| Years Covered | 2021–2024 |
+
+---
+
+## 📊 Dashboard Features
+
+### Executive KPIs
+- Total Sales
+- Total Profit
+
+### Sales Analysis
+- Sales by Category
+- Profit by Year
+- Top 5 Customers by Profit
+- Customer Count by Year
+
+### Interactive Filters
+- Category
+- Year
+- Month
+
+---
+
+## 🛠 Tools & Technologies
+
+- Microsoft Power BI
+- Power Query
+- DAX
+- Microsoft Excel
+
+---
+
+## 📂 Dataset
+
+The dataset contains sales transactions including:
+
+- Orders
+- Customers
+- Products
+- Categories
+- Sales
+- Profit
+- Dates
+
+---
+
+## 📁 Project Structure
+
+```
+Sales-Profit-Dashboard/
+│
+├── Sales and Profit Dashboard.pbix
+├── Sales and Profit Dashboard.xlsx
+├── Screenshot 2026-07-07 172113.png
+└── README.md
+```
+
+---
+
+## 💡 Key Insights
+
+- Technology is the highest-performing category in total sales.
+- Profit increased significantly from 2021 to 2023.
+- A small group of customers contributes a large portion of total profit.
+- Interactive filtering enables detailed business analysis across years and categories.
+
+---
+
+## 🚀 Skills Demonstrated
+
+- Data Cleaning
+- Data Modeling
+- Power Query
+- DAX Measures
+- KPI Design
+- Data Visualization
+- Business Intelligence
+- Dashboard Design
+- Storytelling with Data
+
+---
+
+## 👨‍💻 Author
+
+**Ahmed**
+
+Junior Data Analyst
+
+### Connect with me
+
+- LinkedIn: *(Add your LinkedIn URL)*
+- GitHub: *(Add your GitHub URL)*
